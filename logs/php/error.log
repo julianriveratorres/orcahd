@@ -1,0 +1,1 @@
+[21-May-2024 12:42:56 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\ju.a.rivera\Local Sites\charlton\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
